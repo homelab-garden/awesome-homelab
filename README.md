@@ -12,7 +12,7 @@ Created by Nolan Tait @ https://www.homelab.garden
 
 ## Learn
 
-- [What is a homelab](https://www.homegarden.com/articles/what-is-a-homelab)
+- [What is a homelab](https://www.homelab.garden/articles/what-is-a-homelab) - Learn about how to build a homelab and what you can do with it
 
 ## Guides
 
