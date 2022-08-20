@@ -5,6 +5,8 @@ frameworks and software. The essentials to build, run and deploy your own homela
 
 Created by Nolan Tait @ https://www.homelab.garden
 
+Suggestions are welcome, open an issue or submit a pull request.
+
 ## Content
 
 - [Learn](#learn)
