@@ -15,6 +15,7 @@ Suggestions are welcome, open an issue or submit a pull request.
 ## Learn
 
 - [What is a homelab](https://www.homelab.garden/articles/what-is-a-homelab) - Learn about how to build a homelab and what you can do with it
+- [HomeLab Starter](https://homelabstart.com) - Beginner-focused guides covering home server basics, OS comparisons (Proxmox/TrueNAS/Unraid), hardware picks, and self-hosted apps like Jellyfin, Immich, and Home Assistant
 
 ## Guides
 
