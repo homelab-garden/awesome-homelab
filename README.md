@@ -19,3 +19,4 @@ Suggestions are welcome, open an issue or submit a pull request.
 ## Guides
 
 - [Small homelab K8s cluster on Proxmox VE](https://github.com/ehlesp/smallab-k8s-pve-guide) - Amazing guide on using Kubernetes with a Proxmox cluster. Personally tested and my current base for my homelab.
+- [Peira Labs](https://peira.dev/) - Beginner-friendly homelab, Proxmox and self-hosting guides with free interactive planning tools
